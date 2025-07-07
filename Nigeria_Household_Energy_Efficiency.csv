@@ -1,0 +1,201 @@
+Household ID,State,Number of Appliances,Appliance Types,Uses Energy Efficient Appliances,Monthly Energy Consumption (kWh),Monthly Electricity Cost (NGN),Estimated CO2 Emissions (kg)
+HH_001,Lagos,7,"Fridge, AC",No,460.41,17879.83,285.45
+HH_002,Borno,7,"AC, Fridge, TV",No,437.15,16130.17,271.03
+HH_003,Borno,11,"AC, Bulb, TV, Fan, Fridge",No,422.64,16933.74,262.04
+HH_004,Rivers,5,"Fan, Bulb, AC",Yes,85.4,3797.71,52.95
+HH_005,Kaduna,10,"AC, Fan, TV",No,68.01,2397.67,42.17
+HH_006,Kano,20,"Bulb, TV, Fan, AC, Fridge",Yes,426.18,19054.8,264.23
+HH_007,Lagos,21,"Bulb, Fridge, AC",Yes,140.7,5337.33,87.24
+HH_008,Lagos,24,"Fan, AC, Bulb",Yes,120.0,4567.59,74.4
+HH_009,Kano,22,"Fridge, Fan",Yes,329.81,14323.23,204.48
+HH_010,Oyo,13,"TV, Bulb, Fan",Yes,201.3,8063.98,124.81
+HH_011,Rivers,13,"TV, Fridge, Bulb, AC, Fan",Yes,325.97,12686.29,202.1
+HH_012,Abuja,13,"Fan, Fridge, TV",No,151.52,5843.23,93.94
+HH_013,Oyo,7,"Fridge, TV, AC",Yes,190.09,7836.51,117.85
+HH_014,Enugu,20,"Bulb, Fridge, AC, TV",No,483.79,17585.4,299.95
+HH_015,Rivers,20,"Fridge, TV, Bulb, Fan",No,204.8,7700.06,126.97
+HH_016,Kano,6,"AC, Fan, Bulb, Fridge, TV",Yes,398.24,16176.52,246.91
+HH_017,Kaduna,11,"Fan, Fridge, TV, AC",Yes,214.87,9310.34,133.22
+HH_018,Kaduna,21,"Bulb, TV",Yes,342.29,13650.73,212.22
+HH_019,Oyo,6,"AC, Fan, TV, Bulb, Fridge",No,310.1,13834.22,192.26
+HH_020,Oyo,9,"Bulb, TV",Yes,394.88,16520.48,244.82
+HH_021,Enugu,21,"Bulb, Fridge, TV, AC",No,316.78,12695.02,196.4
+HH_022,Oyo,15,"TV, Fan, Fridge, AC, Bulb",Yes,245.02,8992.93,151.91
+HH_023,Abuja,22,"Fridge, Fan",Yes,483.83,18653.79,299.98
+HH_024,Kano,20,"AC, Fan",No,381.44,16500.37,236.49
+HH_025,Lagos,18,"TV, Fridge, Fan",No,390.82,15766.99,242.31
+HH_026,Rivers,5,"AC, Fan, Fridge, Bulb",Yes,84.98,3062.9,52.69
+HH_027,Oyo,22,"AC, Bulb, Fridge, Fan, TV",Yes,157.57,6492.73,97.7
+HH_028,Kaduna,22,"AC, Fridge, Fan",Yes,191.73,6801.62,118.87
+HH_029,Abuja,21,"Bulb, AC, TV, Fan, Fridge",Yes,334.74,13837.13,207.54
+HH_030,Kano,15,"TV, Bulb, Fridge, Fan",No,406.91,16513.31,252.28
+HH_031,Oyo,19,"Fridge, Bulb, Fan",Yes,473.85,20359.13,293.79
+HH_032,Enugu,20,"AC, Bulb, Fridge",No,201.17,7494.99,124.72
+HH_033,Oyo,7,"TV, Fridge, Fan, Bulb",No,241.64,9358.12,149.82
+HH_034,Kaduna,11,"Fridge, Fan, Bulb, AC",Yes,382.97,13601.58,237.44
+HH_035,Kano,18,"Bulb, TV, Fridge",Yes,284.53,12542.29,176.41
+HH_036,Borno,20,"Fridge, Fan, Bulb",Yes,473.78,21090.81,293.74
+HH_037,Lagos,18,"Fan, AC, TV, Bulb",Yes,305.09,10888.46,189.15
+HH_038,Oyo,6,"Bulb, TV, Fan",No,122.13,5417.97,75.72
+HH_039,Oyo,23,"TV, AC, Fridge, Fan, Bulb",No,56.28,2268.12,34.9
+HH_040,Kano,16,"AC, Fridge, Fan, TV",No,230.42,10085.1,142.86
+HH_041,Lagos,6,"TV, Bulb",Yes,274.73,10978.52,170.33
+HH_042,Enugu,20,"Bulb, TV, AC, Fridge",No,69.83,2957.95,43.3
+HH_043,Rivers,11,"Fridge, AC",Yes,385.39,13872.98,238.94
+HH_044,Borno,14,"Fan, Fridge, AC, Bulb, TV",No,210.86,9046.92,130.74
+HH_045,Rivers,19,"Bulb, Fridge, AC",No,142.02,5311.52,88.05
+HH_046,Oyo,24,"Fan, AC, Fridge, TV",Yes,494.87,18727.28,306.82
+HH_047,Oyo,7,"AC, TV, Bulb, Fridge, Fan",Yes,359.74,15362.56,223.04
+HH_048,Rivers,11,"Fan, Bulb",No,411.72,15067.32,255.27
+HH_049,Rivers,5,"Bulb, Fridge, AC",No,204.0,7870.55,126.48
+HH_050,Rivers,17,"TV, Fan, Bulb, Fridge, AC",No,54.36,2120.72,33.7
+HH_051,Borno,20,"Bulb, Fan, Fridge",Yes,319.71,11557.79,198.22
+HH_052,Enugu,11,"Fridge, TV, Bulb",No,206.41,7319.18,127.97
+HH_053,Abuja,19,"Bulb, Fridge, TV, AC",Yes,499.6,18344.03,309.75
+HH_054,Abuja,10,"Bulb, TV",Yes,179.22,7252.87,111.11
+HH_055,Kano,16,"TV, Bulb",Yes,290.62,11445.72,180.18
+HH_056,Enugu,14,"Fridge, Bulb, TV, AC",Yes,228.7,10255.7,141.8
+HH_057,Rivers,25,"Fan, AC, Fridge, TV",Yes,461.36,18990.69,286.04
+HH_058,Rivers,23,"Bulb, Fridge, Fan, TV, AC",No,143.72,5230.02,89.11
+HH_059,Abuja,12,"Fridge, Bulb, Fan, TV",No,176.07,6796.53,109.16
+HH_060,Kano,25,"Fan, TV, AC, Bulb, Fridge",No,442.0,15635.43,274.04
+HH_061,Kaduna,12,"Fridge, Bulb, Fan, TV, AC",No,482.13,17260.36,298.92
+HH_062,Lagos,20,"AC, Fan, Bulb, TV",Yes,59.19,2114.62,36.7
+HH_063,Kano,25,"TV, Bulb, AC",No,445.5,16249.59,276.21
+HH_064,Kano,18,"TV, AC",No,167.31,6679.32,103.74
+HH_065,Enugu,23,"TV, Bulb, AC",No,257.74,11371.56,159.8
+HH_066,Lagos,17,"Fridge, Bulb",No,152.13,5479.5,94.32
+HH_067,Oyo,14,"TV, AC, Bulb, Fridge",No,168.74,7483.76,104.62
+HH_068,Kaduna,6,"Fan, Bulb, TV",Yes,370.65,16522.85,229.8
+HH_069,Borno,11,"Fan, Fridge, TV, AC",No,227.67,9861.1,141.16
+HH_070,Kaduna,16,"AC, Fan, Bulb, TV, Fridge",Yes,126.96,5666.37,78.71
+HH_071,Kaduna,8,"Fan, Fridge, TV, Bulb",No,417.88,16007.02,259.08
+HH_072,Kaduna,20,"Bulb, AC, Fan, Fridge, TV",Yes,358.17,13832.44,222.07
+HH_073,Kaduna,23,"Fan, Fridge",Yes,204.86,8455.67,127.01
+HH_074,Lagos,14,"AC, TV",No,365.27,13482.63,226.47
+HH_075,Rivers,21,"Fan, AC, Fridge, TV",Yes,368.1,15897.41,228.22
+HH_076,Rivers,13,"TV, Fridge, Bulb, Fan",No,370.87,16412.32,229.94
+HH_077,Abuja,8,"TV, Fan",No,246.13,10889.98,152.6
+HH_078,Lagos,10,"AC, Fridge, Bulb, Fan, TV",Yes,128.82,5294.39,79.87
+HH_079,Enugu,23,"AC, Fan, TV, Bulb",Yes,128.3,5413.05,79.55
+HH_080,Abuja,13,"Fridge, Fan, AC",No,148.36,5326.82,91.98
+HH_081,Oyo,18,"Fridge, AC",No,86.72,3204.16,53.77
+HH_082,Kaduna,13,"AC, Fan",No,483.57,21211.12,299.81
+HH_083,Kano,16,"TV, AC, Fridge, Bulb, Fan",No,428.9,16358.32,265.92
+HH_084,Abuja,12,"Fan, AC, Fridge, Bulb, TV",Yes,107.36,4274.13,66.56
+HH_085,Lagos,7,"Fridge, Fan, TV, Bulb",No,120.02,4698.67,74.41
+HH_086,Kano,7,"TV, Fan",Yes,404.9,14946.59,251.04
+HH_087,Oyo,22,"Fan, AC, TV, Fridge",Yes,459.91,17963.09,285.15
+HH_088,Abuja,24,"Bulb, Fan",Yes,252.46,9474.38,156.53
+HH_089,Borno,7,"TV, AC, Fan",Yes,244.23,10027.72,151.42
+HH_090,Kaduna,7,"Fridge, Fan, TV",No,215.3,8796.62,133.48
+HH_091,Kaduna,22,"TV, Fridge, Fan, AC",No,480.46,18826.5,297.89
+HH_092,Kano,24,"Bulb, Fan",Yes,436.57,18986.34,270.67
+HH_093,Kaduna,17,"Bulb, Fridge, Fan, TV",No,138.96,5969.69,86.16
+HH_094,Oyo,24,"TV, AC, Bulb",No,207.95,9266.64,128.93
+HH_095,Kaduna,11,"Fridge, AC, TV",Yes,282.02,11468.68,174.85
+HH_096,Oyo,6,"Bulb, Fridge, Fan, TV",No,185.14,7566.73,114.79
+HH_097,Rivers,8,"Bulb, AC, Fridge, Fan, TV",Yes,465.08,18473.63,288.35
+HH_098,Enugu,21,"Bulb, TV, Fridge, Fan",Yes,58.73,2543.45,36.41
+HH_099,Oyo,15,"Fridge, AC, Bulb, Fan",No,189.91,8323.44,117.74
+HH_100,Enugu,14,"TV, AC, Fan",Yes,176.52,7253.0,109.44
+HH_101,Abuja,17,"Bulb, TV, AC, Fridge",Yes,243.18,9226.72,150.77
+HH_102,Rivers,7,"Fan, TV, AC",Yes,420.37,14778.55,260.63
+HH_103,Enugu,15,"Bulb, AC, Fan",No,158.87,7094.5,98.5
+HH_104,Abuja,23,"Fan, Bulb, TV, Fridge, AC",No,76.6,2832.02,47.49
+HH_105,Lagos,8,"Bulb, Fan, Fridge, AC",No,463.36,17279.11,287.28
+HH_106,Kano,24,"TV, Fridge, Bulb, AC, Fan",No,274.46,10969.78,170.16
+HH_107,Kano,25,"Fan, AC, TV, Fridge, Bulb",Yes,284.22,11065.36,176.22
+HH_108,Abuja,22,"Bulb, AC, Fridge, TV, Fan",No,442.82,19619.26,274.55
+HH_109,Kano,17,"Fridge, Bulb, TV, Fan",No,495.87,19261.49,307.44
+HH_110,Abuja,14,"Fan, Fridge, TV",Yes,457.63,16089.72,283.73
+HH_111,Kano,19,"Fan, TV",No,165.11,7275.39,102.37
+HH_112,Oyo,24,"TV, Bulb",Yes,315.35,13312.67,195.52
+HH_113,Borno,12,"TV, Fridge, AC, Bulb",No,401.77,17254.94,249.1
+HH_114,Abuja,15,"TV, Fan",Yes,458.0,19853.33,283.96
+HH_115,Kaduna,11,"Bulb, TV, AC",Yes,467.43,18382.14,289.81
+HH_116,Borno,19,"Fridge, TV, Fan, AC, Bulb",No,202.45,8333.98,125.52
+HH_117,Enugu,16,"AC, Fridge",No,436.15,16075.07,270.41
+HH_118,Borno,11,"Fan, TV, Fridge",No,131.42,5268.51,81.48
+HH_119,Abuja,22,"Fridge, Fan",No,344.44,13665.26,213.55
+HH_120,Rivers,11,"AC, Fan, TV, Fridge, Bulb",Yes,62.81,2623.44,38.95
+HH_121,Kaduna,5,"Bulb, AC, Fan, Fridge, TV",Yes,325.92,13273.59,202.07
+HH_122,Kaduna,15,"Fridge, Bulb",No,341.14,13169.07,211.5
+HH_123,Lagos,14,"Fridge, Bulb, Fan, TV, AC",No,103.73,3650.77,64.31
+HH_124,Kaduna,22,"Fan, TV, Fridge, AC, Bulb",Yes,428.04,18956.18,265.39
+HH_125,Kaduna,5,"TV, AC, Fan, Bulb",Yes,445.91,17099.14,276.47
+HH_126,Rivers,14,"Bulb, Fridge, AC, TV",No,342.94,14370.48,212.62
+HH_127,Lagos,14,"Bulb, Fan, TV, AC, Fridge",Yes,335.71,11951.15,208.14
+HH_128,Lagos,23,"AC, Fan, Bulb",Yes,66.34,2477.71,41.13
+HH_129,Lagos,19,"TV, Fan, AC, Fridge, Bulb",No,257.57,10963.6,159.69
+HH_130,Oyo,5,"Fridge, TV, Bulb, AC",Yes,490.84,17922.09,304.32
+HH_131,Kano,23,"Bulb, Fan, Fridge, TV, AC",Yes,498.64,21247.22,309.16
+HH_132,Kaduna,21,"Fan, TV, AC",No,243.35,8579.17,150.87
+HH_133,Borno,9,"Fan, Fridge, TV, Bulb",Yes,153.16,6269.72,94.96
+HH_134,Abuja,24,"AC, Fan, Fridge, TV",No,371.57,13765.09,230.38
+HH_135,Borno,15,"TV, Bulb, Fan, Fridge, AC",Yes,95.89,3733.59,59.45
+HH_136,Rivers,10,"Fan, AC",Yes,443.98,19957.5,275.27
+HH_137,Borno,15,"Fridge, Fan, Bulb, AC",Yes,291.43,11315.35,180.69
+HH_138,Kaduna,14,"Fridge, AC, Fan",No,411.83,17335.79,255.33
+HH_139,Rivers,15,"AC, TV",Yes,326.87,14029.78,202.66
+HH_140,Lagos,7,"AC, Fan",Yes,192.98,7643.32,119.65
+HH_141,Abuja,7,"Fridge, Fan",No,393.26,16859.43,243.82
+HH_142,Enugu,10,"Fridge, AC, Bulb",No,480.01,21104.14,297.61
+HH_143,Enugu,22,"Bulb, Fan, Fridge, TV, AC",Yes,133.06,5684.62,82.5
+HH_144,Oyo,9,"Fridge, Bulb",No,382.9,14011.45,237.4
+HH_145,Enugu,23,"Fridge, Bulb",Yes,244.26,8629.59,151.44
+HH_146,Oyo,10,"Fridge, TV",Yes,323.94,14245.25,200.84
+HH_147,Rivers,23,"AC, TV, Fan",No,130.32,5588.37,80.8
+HH_148,Oyo,13,"AC, Bulb, TV, Fan, Fridge",Yes,385.59,13635.6,239.07
+HH_149,Oyo,21,"TV, Bulb, Fridge, AC",Yes,465.38,17357.51,288.54
+HH_150,Rivers,25,"Fan, AC, Fridge, TV, Bulb",Yes,468.95,20890.12,290.75
+HH_151,Abuja,8,"Bulb, Fridge, TV",No,93.48,3900.2,57.95
+HH_152,Kaduna,15,"TV, Fridge, Bulb, AC, Fan",Yes,116.96,4506.43,72.51
+HH_153,Enugu,25,"Fridge, AC, TV",No,469.26,20422.17,290.94
+HH_154,Oyo,14,"Fridge, AC",Yes,84.31,3134.08,52.27
+HH_155,Enugu,6,"Fridge, TV",Yes,116.36,4102.29,72.14
+HH_156,Oyo,15,"TV, AC, Bulb, Fan",Yes,189.01,7036.06,117.19
+HH_157,Lagos,19,"Bulb, Fan, Fridge",No,111.93,4812.83,69.4
+HH_158,Borno,6,"Fridge, AC",No,217.47,9227.36,134.83
+HH_159,Rivers,11,"AC, Bulb, Fridge",No,397.64,15237.0,246.53
+HH_160,Abuja,23,"AC, Fan, Fridge, Bulb",No,289.6,11959.56,179.55
+HH_161,Oyo,9,"AC, Bulb, Fridge, TV, Fan",Yes,163.42,6948.79,101.32
+HH_162,Kaduna,12,"Bulb, AC, TV",Yes,119.21,4222.51,73.91
+HH_163,Kano,10,"Fridge, Fan, TV, Bulb, AC",Yes,72.69,2840.92,45.07
+HH_164,Borno,13,"Bulb, TV",No,216.42,9237.82,134.18
+HH_165,Kano,13,"Fan, TV, AC, Fridge, Bulb",Yes,300.02,13396.27,186.01
+HH_166,Lagos,25,"AC, TV",No,103.36,4410.94,64.08
+HH_167,Rivers,11,"TV, Bulb, Fridge",No,393.72,14821.02,244.11
+HH_168,Enugu,13,"Fan, TV, Fridge",Yes,74.45,3203.98,46.16
+HH_169,Lagos,17,"TV, Fan, Bulb, Fridge",Yes,167.7,6852.31,103.97
+HH_170,Enugu,11,"Bulb, Fridge, TV, AC, Fan",Yes,411.47,15840.69,255.11
+HH_171,Abuja,17,"TV, Bulb, Fridge, Fan, AC",No,77.25,2902.71,47.9
+HH_172,Kano,16,"Bulb, Fridge, Fan",No,348.88,14873.51,216.3
+HH_173,Kano,6,"Fridge, AC, Bulb, Fan, TV",No,285.31,12752.22,176.89
+HH_174,Enugu,18,"TV, AC, Fridge",Yes,389.53,15333.58,241.51
+HH_175,Enugu,22,"TV, AC, Bulb",No,207.53,8921.41,128.67
+HH_176,Kaduna,16,"TV, AC, Fridge",No,354.97,15843.57,220.08
+HH_177,Enugu,9,"TV, Fridge",Yes,371.78,13501.2,230.5
+HH_178,Lagos,17,"TV, Fan, Bulb",Yes,465.48,17156.28,288.6
+HH_179,Oyo,21,"TV, Bulb, AC, Fan, Fridge",No,278.73,10206.28,172.82
+HH_180,Borno,14,"TV, Fan, Bulb, AC, Fridge",No,254.03,11253.68,157.5
+HH_181,Lagos,23,"AC, TV, Fan, Fridge, Bulb",Yes,311.19,12806.64,192.94
+HH_182,Borno,5,"Fan, TV",Yes,173.23,7676.03,107.4
+HH_183,Borno,12,"TV, Fan, Fridge, AC, Bulb",Yes,454.75,18241.91,281.94
+HH_184,Borno,15,"Fan, Fridge, Bulb, TV",Yes,474.22,18371.87,294.02
+HH_185,Kano,22,"TV, Fridge",No,143.88,6442.76,89.2
+HH_186,Borno,12,"Fan, AC",Yes,154.85,6681.14,96.01
+HH_187,Kaduna,20,"Fridge, Bulb, AC",No,420.77,17649.18,260.88
+HH_188,Kaduna,21,"Fan, Fridge, Bulb, TV",Yes,336.95,13123.52,208.91
+HH_189,Lagos,19,"Fridge, Fan, TV, AC, Bulb",Yes,463.2,16364.29,287.18
+HH_190,Kaduna,7,"TV, Fridge, Bulb, Fan, AC",Yes,74.07,2989.5,45.93
+HH_191,Abuja,21,"AC, Fan",Yes,162.67,5711.15,100.85
+HH_192,Kaduna,13,"AC, Fan, TV, Bulb, Fridge",No,233.91,8959.14,145.02
+HH_193,Abuja,21,"TV, Fridge",No,430.17,19150.14,266.7
+HH_194,Enugu,11,"AC, Fridge, Fan",No,466.73,19116.84,289.37
+HH_195,Abuja,11,"TV, Fan",Yes,369.52,14407.03,229.1
+HH_196,Lagos,13,"Bulb, Fridge",No,173.27,6723.14,107.43
+HH_197,Kano,12,"Bulb, Fridge, TV, AC, Fan",No,379.67,15667.77,235.4
+HH_198,Kaduna,5,"Bulb, TV, AC, Fan, Fridge",No,475.02,20324.8,294.51
+HH_199,Kano,20,"Fan, AC, Bulb",Yes,484.37,19074.45,300.31
+HH_200,Lagos,8,"Fridge, AC",No,123.18,5139.3,76.37
