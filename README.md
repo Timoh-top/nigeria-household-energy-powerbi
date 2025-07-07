@@ -1,7 +1,7 @@
 # Nigeria-household-energy-powerbi
 “Advanced Power BI dashboard analyzing Nigeria’s household energy consumption and emissions.”
 ## Dashboard Preview 
-![Dsdhboard Overview](Screenshot 2025-07-07 133311.png)
+![Dashboard Overview](Screenshot 2025-07-07 133311.png)
 # Project Overview
 This project analyzes monthly household energy consumption across Nigerian states using Power BI, focusing on:
 Identifying consumption patterns across states.
